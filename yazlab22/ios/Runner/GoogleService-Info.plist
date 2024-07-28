@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAZJBM-GKCMQ8TjzGUfsj8wSy7o8yPORmI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>655455782082</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.yazlab22</string>
+	<key>PROJECT_ID</key>
+	<string>flutter-firebase-6ce5a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutter-firebase-6ce5a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:655455782082:ios:f6fed47c0000d0da9ae75b</string>
+</dict>
+</plist>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655455782082",
+    "project_id": "flutter-firebase-6ce5a",
+    "storage_bucket": "flutter-firebase-6ce5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655455782082:android:f2761194ab6654a79ae75b",
+        "android_client_info": {
+          "package_name": "com.example.yazlab22"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf2Yxj-StQw_xsnm2P484NB9TUuOOg4LE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
