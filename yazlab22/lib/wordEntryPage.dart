@@ -36,7 +36,7 @@ class _WordEntryPageState extends State<WordEntryPage> {
     super.initState();
     final FirebaseDatabase database = FirebaseDatabase(
         databaseURL:
-            'https://flutter-firebase-6ce5a-default-rtdb.europe-west1.firebasedatabase.app/');
+            '**********');
     _dbRef = database.ref().child('odalar');
     loadWordList();
   }
